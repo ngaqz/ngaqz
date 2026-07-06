@@ -9,7 +9,7 @@
 <!-- CountLoli - Visitor Counter -->
 <img src="https://count.getloli.com/get/@anzowc?theme=gelbooru" alt="Visitor Count" />
 
-# ✦                                                  ✦
+# ✦                                                 ✦
 ### 🧭 Website Skidder  :: GMT+7
 
 <!-- Typing SVG -->
@@ -50,7 +50,13 @@
 
 ### ✦ GITHUB ANALYSIS
 
-<!-- Đã sửa lỗi endpoint Streak Stats sang demolab mới nhất theo tài liệu -->
+<!-- Thêm card GitHub Readme Profile mới theo tài liệu -->
+<p align="center">
+  <a href="https://github.com/anzowc">
+    <img src="https://gh-readme-profile.vercel.app/api?username=anzowc&theme=dark" alt="GitHub Readme Profile" height="180px" style="border-radius: 8px; margin-bottom: 10px;" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anzowc&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="GitHub Stats" height="180px"/>
   <img src="https://streak-stats.demolab.com/?user=anzowc&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="180px"/>
