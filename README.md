@@ -42,7 +42,7 @@
 
 * **`Identity`** `::` Nguyen Anh Quan (junn-owc-ngaq)
 * **`Location`** `::` Viet Nam / Bien Hoa City 
-* **`Habit`** `::` useless / poor / but have dead brain
+* **`Special`** `::` useless / poor / but have dead brain
 
 ---
 
