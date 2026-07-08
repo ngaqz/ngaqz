@@ -30,7 +30,7 @@
 
 <!-- Đã xếp card Profile và Streak nằm ngang hàng nhau, xóa bỏ card cũ theo ảnh Untitled.png -->
 <p align="center">
-  <a href="https://github.com/anzowc">
+  <a href="https://github.com/ngaqz">
     <img src="https://gh-readme-profile.vercel.app/api?username=anzowc&theme=dark" alt="GitHub Readme Profile" height="180px" style="border-radius: 8px; margin-right: 5px;" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=anzowc&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="180px"/>
