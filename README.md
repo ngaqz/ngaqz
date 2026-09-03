@@ -65,5 +65,5 @@
   
   <br/>
   <br/>
-  <span><i>"Nằm im tình yêu sẽ đến, bớt code lại cho đời thanh thản..."</i></span>
+  <span><i>"Nằm im tình yêu sẽ đến  bớt code lại cho đời thanh thản..."</i></span>
 </div>
