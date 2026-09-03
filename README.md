@@ -7,12 +7,9 @@
 <br/>
 
 # ✦                                                 ✦
-### 🧭 Website Skidder  :: GMT+7
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=%E2%9C%A6+Full-time+Lazy+Developer;%E2%9C%A6+HTML+%7C+CSS+%7C+C%2B%2B+%7C+Python;%E2%9C%A6+Aesthetic+%26+Clean+Workspace" alt="Typing SVG" />
-</p>
+
+
 
 <!-- Social Links (Discord, YouTube) -->
 <a href="https://discord.gg/kittymeadow" target="_blank">
