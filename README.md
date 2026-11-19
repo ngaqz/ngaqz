@@ -36,9 +36,9 @@
 
 ### 🪙 STATUS PROFILE
 
-* **`Identity`** `::` Nguyen Anh Quan (junn-owc-ngaq)
+* **`Identity`** `::` Nguyen Truong Giang (junn-owc-ngaq)
 * **`Location`** `::` Viet Nam / Bien Hoa City 
-* **`Special`** `::` useless / poor / but have dead brain
+* **`Special`** `::` have dead brain
 
 ---
 
@@ -65,5 +65,5 @@
   
   <br/>
   <br/>
-  <span><i>"Nằm im tình yêu sẽ đến  bớt code lại cho đời thanh thản..."</i></span>
+  <span><i>"Nằm im tình yêu sẽ đến.. : ) "</i></span>
 </div>
